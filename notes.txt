@@ -1,3 +1,0 @@
-https://www.npmjs.com/package/glitchup (url?)
-
-http://www.feedvalidator.org/check.cgi?url=https%3A%2F%2Fsubstantial-vinyl.glitch.me%2Fatom%2Fall%2F#l61
